@@ -111,3 +111,43 @@ header{
     background: url(./img/master\ clas.png);  
    padding-bottom: 300px;
 }
+/* -------------------------------------------header end----------------------------------- */
+/* asad orqa foni o'zing chiqazvor */
+.bir{
+    background-color: #280f46;
+}
+.kart{
+    width: 270px;
+    height: 470px;
+    background-color:  darkviolet;
+    padding: 20px 25px;
+    border-radius: 2%;
+}
+.human{
+   margin-bottom: 20px;
+}
+.feat{
+    text-align: center;
+    color: beige;
+   margin-top: 80px;
+   margin-bottom: 30px;
+}
+.run{
+    font-size: 20px;
+    margin-bottom: 80px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.buy{
+    font-weight: 500;
+    text-align: center;
+    color: #FFFFFF;
+}
+.view{
+    font-weight: 700;
+    padding: 14px 60px;
+    /* margin-left: 20px; */
+    border-radius: 50px;
+    border: none;
+    color: rgb(125, 63, 125);
+}
