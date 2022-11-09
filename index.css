@@ -1,0 +1,113 @@
+.back {
+    background: url(./img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bol {
+    background-color: #1E1E37;
+}
+
+#nav2 {
+    background: #1e1e3f;
+}
+
+.list {
+    padding-left: 70px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.section10 {
+    margin-top: 18px;
+    margin-bottom: -150px;
+}
+
+.browser {
+    margin-left: 70px;
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+#list_item a {
+    border-top: 0.5px solid #5B00FB;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #5B00FB;
+}
+
+.list_item a {
+    padding: 19px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.list_item {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.lists {
+    width: 566px;
+    margin: auto;
+    display: flex;
+    padding: 12px 0;
+}
+
+.kk {
+    width: 30px;
+}
+
+.listitem {
+    margin-left: 350px;
+}
+
+.nav1 {
+    margin-top: 28px;
+    border: 1px rgba(125, 123, 123, 0.527) solid;
+    border-right: none;
+    border-left: none;
+}
+
+.nft {
+    margin-top: 148px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 46px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.own {
+    margin-left: 22px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.btn1 {
+    margin-top: 35px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+    background: rgb(93, 0, 250);
+    background: linear-gradient(90deg, rgba(93, 0, 250, 1) 0%, rgba(215, 11, 202, 1) 100%);
+    border: none;
+    border-radius: 46px;
+    padding: 14px 40px;
+    margin-left: 35px;
+}
+header{
+    background: url(./img/master\ clas.png);  
+   padding-bottom: 300px;
+}
