@@ -117,11 +117,38 @@ header{
     background-color: #280f46;
 }
 .kart{
+    margin-top: 25px;
     width: 270px;
     height: 470px;
-    background-color:  darkviolet;
+    background: rgb(29, 15, 53);
+    background: linear-gradient(8deg, rgba(29, 15, 53, 1) 0%, rgba(99, 109, 193, 1) 49%, rgba(187, 130, 219, 1) 100%);
     padding: 20px 25px;
     border-radius: 2%;
+    position: relative;
+}
+.pari{
+    position: absolute;
+    top: 340px;
+    left: 80px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+#lemo{
+    position: absolute;
+    top: 360px;
+    left: 70px;
+}
+#lego{
+    position: absolute;
+    top: 400px;
+    left: 40px;
 }
 .human{
    margin-bottom: 20px;
@@ -133,6 +160,7 @@ header{
    margin-bottom: 30px;
 }
 .run{
+  
     font-size: 20px;
     margin-bottom: 80px;
     text-align: center;
@@ -151,3 +179,175 @@ header{
     border: none;
     color: rgb(125, 63, 125);
 }
+.lates{
+    margin-top: 160px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    color: #FFFFFF;
+}
+section{
+    background-color: blueviolet;
+}
+.ux{
+    display: flex;
+    justify-content: center;
+    text-align: end;
+}
+.list_iteam{
+    margin: 0px;
+    margin-top: 28px;
+    margin-left: 55px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+   
+    list-style: none;
+}
+section{
+    /* background-color: #1E1E37; */
+    background: #1e1e3f;
+}
+/* ----------FOOTER-------------- */
+footer{
+    background: #09010D;
+    
+}
+.para{
+    margin-left: 90px;
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.vector{
+    position: relative;
+}
+
+.vectorimge{
+    position: absolute;
+    top: -45px;
+    left: 345px;
+    padding: 13px;
+    background: linear-gradient(90deg, #5D00FA 0%, #D70BCA 100%);
+    border-radius: 48px;
+}
+
+ .lego{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 50px;
+    padding: 10px 50px;
+    padding-left: 5px;
+    border-bottom: 0.5px solid #D0D0D0;
+ }
+ .fa-brands{
+    border: 0.5px solid #D0D0D0 ;
+    border-radius: 50%;
+    color: white;
+    padding: 10px ;
+    margin-left: 0px;
+    margin-right: 10px;
+
+ }
+ .lemo{
+    margin-top: 17px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+ }
+ .lee{
+    margin-top: 10px;
+ }
+ .this{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+
+ }
+ 
+ .list_iteam1{
+   margin-left: 0px;
+   padding-left: 0px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-top: 5px;
+ }
+ .year{
+    color: #FFFFFF;
+    margin-top: 61px;
+    margin-bottom: 30px;
+ }
+ .logopit{
+    margin-top: 61px;
+    margin-bottom: 30px;
+
+ }
+ .para{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+ }
+ .inputing{
+    padding: 10px 167px;
+    border: 0.5px solid #D0D0D0;
+    border-radius: 48px;
+    color: #D0D0D0;
+    background: #09010D;
+   padding-left: 44px;
+ }
+ .vic{
+    position: relative;
+ }
+ .vic2{
+    position: absolute;
+    top: -29px;
+    left: 20px;
+ }
+ #keyt{
+    margin-bottom: 150px;
+ }
+ .btn3 {
+    padding: 8px 16px;
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 46px;
+    background: rgb(93, 0, 250);
+    background: linear-gradient(90deg, rgba(93, 0, 250, 1) 0%, rgba(215, 11, 202, 1) 100%);
+}
+#row1 {
+    margin-top: 15px;
+    margin-bottom: 32px;
+    justify-content: space-around;
+}
+#four {
+    
+    padding-left: 43px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+ 
