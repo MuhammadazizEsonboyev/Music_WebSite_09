@@ -1,4 +1,4 @@
-.back {
+.back{
     background: url(./img/background.jpg);
     background-repeat: no-repeat;
     background-size: contain;
@@ -112,10 +112,9 @@ header{
    padding-bottom: 300px;
 }
 /* -------------------------------------------header end----------------------------------- */
-/* asad orqa foni o'zing chiqazvor */
-.bir{
+/* .bir{
     background-color: #280f46;
-}
+} */
 .kart{
     margin-top: 25px;
     width: 270px;
@@ -154,10 +153,11 @@ header{
    margin-bottom: 20px;
 }
 .feat{
-    text-align: center;
+    padding-left: 500px;
     color: beige;
    margin-top: 80px;
    margin-bottom: 30px;
+   /* text-align: center; */
 }
 .run{
   
@@ -263,6 +263,10 @@ footer{
     font-weight: 400;
     font-size: 14px;
     line-height: 17px;
+    color: #FFFFFF;
+ }
+ .lemo a{
+    text-decoration: none;
     color: #FFFFFF;
  }
  .lee{
