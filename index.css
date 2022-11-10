@@ -71,10 +71,13 @@
 }
 
 .nav1 {
-    margin-top: 28px;
+    /* margin-top: 28px; */
     border: 1px rgba(125, 123, 123, 0.527) solid;
     border-right: none;
     border-left: none;
+    padding-top: 28px;
+    
+
 }
 
 .nft {
